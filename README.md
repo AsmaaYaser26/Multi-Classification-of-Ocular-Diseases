@@ -26,7 +26,8 @@ For training the model some preprocessing was done such as : rescaling and resiz
 Depended on the priciple of transfer learning which used a pretrained model [ xception ] imported from keras and used to train the model over 20 epoch and used SGD optimizer and learning rate=0.01.
 
 ### Model Evaluation 
-Used evaluation metrics : accuracy, confusion matrix, classification report 
+Used evaluation metrics : accuracy, confusion matrix, classification report
+The acheived accuracy was 97%
 
 ### Saving the model 
 Saved the trained model as h5 file.
