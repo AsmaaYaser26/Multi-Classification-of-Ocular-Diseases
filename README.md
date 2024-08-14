@@ -1,4 +1,4 @@
-# Multi-Classification-of-Ocular-Diseases
+# Multi-Class Classification-of-Ocular-Diseases
 Multiclassification problem solved using deep learning.
 
 ## Introduction
